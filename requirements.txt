@@ -1,0 +1,5 @@
+Django==1.9.11
+django-grappelli==2.9.1
+-e git+https://github.com/charly24/django-sendgrid.git@f05bc205ef99b6921ec0ef1e973293d64d5ca89f#egg=django_sendgrid
+pytz==2016.10
+six==1.10.0

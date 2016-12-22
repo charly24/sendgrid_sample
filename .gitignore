@@ -13,3 +13,6 @@ django_sendgrid.egg-info/*
 virtualenv
 cover/
 db.sqlite3
+
+sendgrid_sample/static/admin/
+sendgrid_sample/static/grappelli/
