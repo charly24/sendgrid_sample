@@ -1,0 +1,15 @@
+*.db
+*.pyc
+*.DS_Store
+.idea
+.tox
+.cache
+.coverage
+secret.sh
+docs/_build/*
+build/*
+dist/*
+django_sendgrid.egg-info/*
+virtualenv
+cover/
+db.sqlite3
